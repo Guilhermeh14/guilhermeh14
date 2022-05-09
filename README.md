@@ -11,6 +11,8 @@ Meu nome é Guilherme, me interesso e gosto muito da área de tecnologia, especi
 - ⚽ Hobbies: Jogos, musica, caminhada, natação.
 - ✉ E-mail: guilherme_h14@hotmail.com
 
+Linguagens e Ferramentas: 
+
 <a href="https://www.linkedin.com/in/guilherme-fernando-de-souza-605738224/" target="_blank" rel="nofollow"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> <a href="https://www.linkedin.com/in/guilherme-fernando-de-souza-605738224/" target="_blank" rel="nofollow"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <a href="https://www.linkedin.com/in/guilherme-fernando-de-souza-605738224/" target="_blank" rel="nofollow"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <a href="https://www.linkedin.com/in/guilherme-fernando-de-souza-605738224/" target="_blank" rel="nofollow"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://www.linkedin.com/in/guilherme-fernando-de-souza-605738224/" target="_blank" rel="nofollow"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
 
