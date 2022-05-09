@@ -1,7 +1,7 @@
 # *Olá, bem-vindo ao meu GitHub!!* 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme_Fernando_De_Souza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fernando-de-souza-605738224/)
 
-Meu nome é Guilherme, me interesso e gosto muito da área de tecnologia, especialmente por programação, atualmente estou cursando Desenvolvimento de sistemas na Etec Comendador João Rays de Barra Bonita/SP, estou estudando para um dia ter a oportunidade de trabalhar na area de tecnologia.
+Meu nome é Guilherme, me interesso e gosto muito da área de tecnologia, especialmente por programação, atualmente estou cursando Desenvolvimento de sistemas na Etec Comendador João Rays de Barra Bonita/SP, estou estudando para um dia ter a oportunidade de trabalhar na área de tecnologia.
 
 ## **Algumas informações pessoais:**
 
