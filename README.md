@@ -1,4 +1,4 @@
-# **Olá, bem-vindo ao meu GitHub!!** 👋
+# *Olá, bem-vindo ao meu GitHub!!* 👋
 
 Meu nome é Guilherme, me interesso e gosto muito da área de tecnologia, especialmente por programação, atualmente estou cursando Desenvolvimento de sistemas na Etec Comendador João Rays de Barra Bonita/SP, estou estudando para um dia ter a oportunidade de trabalhar na area de tecnologia.
 
