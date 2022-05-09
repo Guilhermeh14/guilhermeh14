@@ -8,7 +8,7 @@ Meu nome é Guilherme, me interesso e gosto muito da área de tecnologia, especi
 - 👨‍🎓 Estou estudando Desenvolvimento de sistemas, com foco em linguagens como javascript, c#, html, css.
 - 📃 Procuro estágio ou trabalho na área de tecnologia.
 - 🔤 Ingles: Básico.
-- ⚽ Hobbies: Jogos, caminhada, natação.
+- ⚽ Hobbies: Jogos, musica, caminhada, natação.
 - ✉ E-mail: guilherme_h14@hotmail.com
 
 <p dir="auto"><strong>Linguagens e ferramentas:</strong></p>
