@@ -10,7 +10,6 @@ Meu nome é Guilherme, me interesso e gosto muito da área de tecnologia, especi
 - ⚽ Hobbies: Jogos, caminhada, natação.
 - ✉ E-mail: guilherme_h14@hotmail.com
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+<img height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> 
 
 
